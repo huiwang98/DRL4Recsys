@@ -47,7 +47,7 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 *considers both positive and negative feedback from users recent behaviors to help find optimal strategy.*
 
 1. **Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation**. Shi-Yong Chen, Yang Yu, Qing Da, Jun Tan, Hai-Kuan Huang, Hai-Hong Tang. KDD 2018. [paper](http://lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/kdd18-RobustDQN.pdf)  
-*To mitigate the performance degradation due to high-variance and biased estimation of the reward, the paper provides a stratified ran- dom sampling and an approximate regretted reward to enhance the robustness of the model.*
+*To mitigate the performance degradation due to high-variance and biased estimation of the reward, the paper provides a stratified random sampling and an approximate regretted reward to enhance the robustness of the model.*
 
 1. **Reinforcement Learning to Rank in E-Commerce Search Engine: Formalization, Analysis, and Application**. Yujing Hu, Qing Da, Anxiang Zeng, Yang Yu, Yinghui Xu. KDD 2018. [paper](https://arxiv.org/pdf/1803.00710.pdf)  
 *introduces DPG-FBE algorithm to maintain an approximate model of the environment to perform reliable updates of value functions.*
@@ -57,7 +57,13 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 1. **Generative Adversarial User Model for Reinforcement Learning Based Recommendation System**. Xinshi Chen, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song. ICML 2019. [paper](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf)
 1. **Aggregating E-commerce Search Results from Heterogeneous Sources via Hierarchical Reinforcement Learning**. Ryuichi Takanobu, Tao Zhuang, Minlie Huang, Jun Feng, Haihong Tang, Bo Zheng. WWW 2019. [paper](https://arxiv.org/pdf/1902.08882.pdf)
 1. **Policy Gradients for Contextual Recommendations**. Feiyang Pan, Qingpeng Cai, Pingzhong Tang, Fuzhen Zhuang, Qing He. WWW 2019. [paper](https://arxiv.org/pdf/1802.04162.pdf)
+
+1. ★★★  
+**Value-aware Recommendation based on Reinforcement Profit Maximization**. Changhua Pei, Xinru Yang, Qing Cui, Xiao Lin, Fei Sun, Peng Jiang, Wenwu Ou, Yongfeng Zhang. WWW 2019.  
+*Value-aware*
+
 1. **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation**. Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo, Yongfeng Zhang. SIGIR 2019. [paper](http://yongfeng.me/attach/xian-sigir2019.pdf)
+
 1. **Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems**. Lixin Zou, Long Xia, Zhuoye Ding, Jiaxing Song, Weidong Liu, Dawei Yin. KDD 2019. [paper](https://arxiv.org/pdf/1902.05570.pdf)
 1. **Environment reconstruction with hidden confounders for reinforcement learning based recommendation**. Wenjie Shang, Yang Yu, Qingyang Li, Zhiwei Qin, Yiping Meng, Jieping Ye. KDD 2019. [paper](http://lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/kdd19-confounder.pdf)
 1. **Exact-K Recommendation via Maximal Clique Optimization**. Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu. KDD 2019. [paper](https://arxiv.org/pdf/1905.07089.pdf)
@@ -71,12 +77,20 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 1. **End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding**. Feng Liu, Huifeng Guo, Xutao Li, Ruiming Tang, Yunming Ye, Xiuqiang He. WSDM 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371858)
 1. **Reinforced Negative Sampling over Knowledge Graph for Recommendation**. Xiang Wang, Yaokun Xu, Xiangnan He, Yixin Cao, Meng Wang, Tat-Seng Chua. WWW 2020. [paper](https://arxiv.org/pdf/2003.05753.pdf)
 1. **A Reinforcement Learning Framework for Relevance Feedback**. Ali Montazeralghaem, Hamed Zamani, James Allan. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401099)
+
 1. ★★★  
-**KERL: A Knowledge-Guided Reinforcement Learning Model for  Sequential Recommendation**. Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao, Shaozhang Niu, Jimmy Huang. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401134)
+**KERL: A Knowledge-Guided Reinforcement Learning Model for  Sequential Recommendation**. Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao, Shaozhang Niu, Jimmy Huang. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401134)  
+*Graph*
 
 1. **Self-Supervised Reinforcement Learning for Recommender Systems**. Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.05779.pdf)
 1. **Reinforcement Learning to Rank with Pairwise Policy Gradient**. Jun Xu, Zeng Wei, Long Xia, Yanyan Lan, Dawei Yin, Xueqi Cheng, Ji-Rong Wen. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401148)
-1. **MaHRL: Multi-goals Abstraction based Deep Hierarchical Reinforcement Learning for Recommendations**. Dongyang Zhao, Liang Zhang, Bo Zhang, Lizhou Zheng, Yongjun Bao, Weipeng Yan. SIGIR 2020. [paper](https://arxiv.org/pdf/1903.09374.pdf)
+
+1. ？？？  
+**MaHRL: Multi-goals Abstraction based Deep Hierarchical Reinforcement Learning for Recommendations**. Dongyang Zhao, Liang Zhang, Bo Zhang, Lizhou Zheng, Yongjun Bao, Weipeng Yan. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401170)  
+(**Deep Hierarchical Reinforcement Learning Based Recommendations via Multi-goals Abstraction**. SIGKDD 2019. [paper](https://arxiv.org/pdf/1903.09374.pdf) )  
+*PKU / JD*  
+*high-level agent and low-level agent*
+
 1. **Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs**. Kangzhi Zhao, Xiting Wang, Yuren Zhang, Li Zhao, Zheng Liu, Chunxiao Xing, Xing Xie. SIGIR 2020. [paper](https://dl.acm.org/doi/10.1145/3397271.3401171)
 1. **Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning**. Sijin Zhou, Xinyi Dai, Haokun Chen, Weinan Zhang, Kan Ren, Ruiming Tang, Xiuqiang He, Yong Yu. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.10389.pdf)
 1. **Adversarial Attack and Detection on Reinforcement Learning based Recommendation System**. Yuanjiang Cao, Xiaocong Chen, Lina Yao, Xianzhi Wang, Wei Emma Zhang. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.07934.pdf)
@@ -84,6 +98,10 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 1. **Nonintrusive-Sensing and Reinforcement-Learning Based Adaptive Personalized Music Recommendation**. D Hong, L Miao, Y Li. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401225)
 1. **Keeping Dataset Biases out of the Simulation: A Debiased Simulator for Reinforcement Learning based Recommender Systems**. Jin Huang, Harrie Oosterhuis, Maarten de Rijke, Herke van Hoof. RecSys 2020. [paper](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/huang-2020-keeping.pdf)
 1. **Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication**. Xu He, Bo An, Yanghua Li, Haikai Chen, Rundong Wang, Xinrun Wang, Runsheng Yu, Xin Li, Zhirong Wang. RecSys 2020. [paper](https://arxiv.org/pdf/2008.09369.pdf)
+
+1. **Hierarchical Reinforcement Learning for Integrated Recommendation**. Ruobing Xie, Shaoliang Zhang, Rui Wang, Feng Xia, Leyu Lin. AAAI, 2021. [paper](https://www.aaai.org/AAAI21Papers/AAAI-1169.XieR.pdf)  
+*Hui SHI lectured*  
+*WeChat*
 
 
 ### Preprint Papers
