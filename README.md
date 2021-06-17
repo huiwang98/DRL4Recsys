@@ -1,5 +1,8 @@
 # Deep Reinforcement Learning for Recommender Systems 
-Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender system
+
+This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and DRL papers for recommender system.  
+
+**(This work is forked from https://github.com/cszhangzhen/DRL4Recsys. In this fork, we updated some latest paper and added some comment or summary)**
 
 ## Courses
 #### UCL Course on RL 
@@ -44,7 +47,7 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
 
 1. **Deep Reinforcement Learning for Page-wise Recommendations**. Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang.  RecSys 2018. [paper](https://arxiv.org/pdf/1805.02343.pdf)  
-*adopts RL to recommend items on a 2-D page instead of showing one single item each time.*
+*Adopts RL to recommend items on a 2-D page instead of showing one single item each time.*
 
 1. **Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Long Xia, Jiliang Tang, Dawei Yin. KDD 2018. [paper](https://arxiv.org/pdf/1802.06501.pdf)  
 *considers both positive and negative feedback from users recent behaviors to help find optimal strategy.*
