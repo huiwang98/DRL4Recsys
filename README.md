@@ -12,6 +12,8 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 ## Book
 1. **Reinforcement Learning: An Introduction (Second Edition)**. Richard S. Sutton and Andrew G. Barto. [book](http://incompleteideas.net/book/bookdraft2017nov5.pdf)
 
+1. **强化学习实战：强化学习在阿里的技术演进和业务创新** ISBN：9787121338984
+
 ## Papers
 ### Survey Papers
 1. **A Brief Survey of Deep Reinforcement Learning**. Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath. 2017. [paper](https://arxiv.org/pdf/1708.05866.pdf)
@@ -23,7 +25,7 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 
 1. **Usage-Based Web Recommendations: A Reinforcement Learning Approach**. Nima Taghipour, Ahmad Kardan, Saeed Shiry Ghidary. Recsys 2007. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.9640&rep=rep1&type=pdf)
 
-1. **A hybrid web recommender system based on q-learning**. Nima Taghipour and Ahmad Kardan. 2008. In Proceedings of the 2008 ACM symposium on Applied computing. ACM, 1164–1168.  
+1. **A hybrid web recommender system based on q-learning**. Nima Taghipour and Ahmad Kardan. 2008. In Proceedings of the 2008 ACM symposium on Applied computing. ACM, 1164–1168. [paper](http://home.ustc.edu.cn/~xhlm630/RL_Research/A_Hybrid_Web_Recommender_System_Based_on_Q-Learning.pdf)  
 *Q-learning*
 
 1. **DJ-MC: A Reinforcement-Learning Agent for Music Playlist Recommendation**. Elad Liebman, Maytal Saar-Tsechansky, Peter Stone. AAMAS 2015. [paper](https://arxiv.org/pdf/1401.1880.pdf)
@@ -95,8 +97,15 @@ Courses on Deep Reinforcement Learning (DRL) and DRL papers for recommender syst
 1. **Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning**. Sijin Zhou, Xinyi Dai, Haokun Chen, Weinan Zhang, Kan Ren, Ruiming Tang, Xiuqiang He, Yong Yu. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.10389.pdf)
 1. **Adversarial Attack and Detection on Reinforcement Learning based Recommendation System**. Yuanjiang Cao, Xiaocong Chen, Lina Yao, Xianzhi Wang, Wei Emma Zhang. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.07934.pdf)
 1. **Reinforcement Learning based Recommendation with Graph Convolutional Q-network**. Yu Lei, Hongbin Pei, Hanqi Yan, Wenjie Li. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401237)
+
 1. **Nonintrusive-Sensing and Reinforcement-Learning Based Adaptive Personalized Music Recommendation**. D Hong, L Miao, Y Li. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401225)
+
+
+1. **Joint Policy-Value Learning for Recommendation**. Olivier Jeunen, David Rohde, Flavian Vasile, Martin Bompaire. KDD 2020. [link](https://www.kdd.org/kdd2020/accepted-papers/view/joint-policy-value-learning-for-recommendation)  [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403175)  
+*Combine value learning and policy learning*
+
 1. **Keeping Dataset Biases out of the Simulation: A Debiased Simulator for Reinforcement Learning based Recommender Systems**. Jin Huang, Harrie Oosterhuis, Maarten de Rijke, Herke van Hoof. RecSys 2020. [paper](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/huang-2020-keeping.pdf)
+
 1. **Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication**. Xu He, Bo An, Yanghua Li, Haikai Chen, Rundong Wang, Xinrun Wang, Runsheng Yu, Xin Li, Zhirong Wang. RecSys 2020. [paper](https://arxiv.org/pdf/2008.09369.pdf)
 
 1. **Hierarchical Reinforcement Learning for Integrated Recommendation**. Ruobing Xie, Shaoliang Zhang, Rui Wang, Feng Xia, Leyu Lin. AAAI, 2021. [paper](https://www.aaai.org/AAAI21Papers/AAAI-1169.XieR.pdf)  
