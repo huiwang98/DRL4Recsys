@@ -2,7 +2,7 @@
 
 This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and DRL papers for recommender system.  
 
-**(This work is forked from https://github.com/cszhangzhen/DRL4Recsys. In this fork, we updated some latest paper and added some comment or summary)**
+**(This work is forked from https://github.com/cszhangzhen/DRL4Recsys. In this fork, we updated some latest paper and added some comments or summaries)**
 
 ## Courses
 #### UCL Course on RL 
@@ -44,7 +44,8 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 
 1. **Reinforcement Mechanism Design for e-commerce**. Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang. WWW 2018. [paper](https://arxiv.org/pdf/1708.07607.pdf)
 
-1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
+1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)  
+*Pennsylvania State University, Microsoft*
 
 1. **Deep Reinforcement Learning for Page-wise Recommendations**. Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang.  RecSys 2018. [paper](https://arxiv.org/pdf/1805.02343.pdf)  
 *Adopts RL to recommend items on a 2-D page instead of showing one single item each time.*
@@ -60,7 +61,8 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 
 1. **A Reinforcement Learning Framework for Explainable Recommendation**. Xiting Wang, Yiru Chen, Jie Yang, Le Wu, Zhengtao Wu, Xing Xie. ICDM 2018. [paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/08/main.pdf)
 
-1. **Top-K Off-Policy Correction for a REINFORCE Recommender System**. Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed H. Chi. WSDM 2019. [paper](https://arxiv.org/pdf/1812.02353.pdf)
+1. **Top-K Off-Policy Correction for a REINFORCE Recommender System**. Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed H. Chi. WSDM 2019. [paper](https://arxiv.org/pdf/1812.02353.pdf)  
+*Youtube*
 
 1. **Generative Adversarial User Model for Reinforcement Learning Based Recommendation System**. Xinshi Chen, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song. ICML 2019. [paper](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf)
 
@@ -92,7 +94,8 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 
 1. **DRCGR: Deep reinforcement learning framework incorporating CNN and GAN-based for interactive recommendation**. Rong Gao, Haifeng Xia, Jing Li, Donghua Liu, Shuai Chen, and Gang Chun. ICDM 2019. [paper](https://ieeexplore.ieee.org/document/8970700)
 
-1. **Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation**. Lixin Zou, Long Xia, Pan Du, Zhuo Zhang, Ting Bai, Weidong Liu, Jian-Yun Nie, Dawei Yin. WSDM 2020. [paper](https://tbbaby.github.io/pub/wsdm20.pdf)
+1. **Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation**. Lixin Zou, Long Xia, Pan Du, Zhuo Zhang, Ting Bai, Weidong Liu, Jian-Yun Nie, Dawei Yin. WSDM 2020. [paper](https://tbbaby.github.io/pub/wsdm20.pdf)  
+*Hui SHI lectured*  
 
 1. **End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding**. Feng Liu, Huifeng Guo, Xutao Li, Ruiming Tang, Yunming Ye, Xiuqiang He. WSDM 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371858)
 
@@ -108,11 +111,12 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 
 1. **Reinforcement Learning to Rank with Pairwise Policy Gradient**. Jun Xu, Zeng Wei, Long Xia, Yanyan Lan, Dawei Yin, Xueqi Cheng, Ji-Rong Wen. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401148)
 
-1. ？？？  
+1. ★★★  
 **MaHRL: Multi-goals Abstraction based Deep Hierarchical Reinforcement Learning for Recommendations**. Dongyang Zhao, Liang Zhang, Bo Zhang, Lizhou Zheng, Yongjun Bao, Weipeng Yan. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401170)  
-(**Deep Hierarchical Reinforcement Learning Based Recommendations via Multi-goals Abstraction**. SIGKDD 2019. [paper](https://arxiv.org/pdf/1903.09374.pdf) )  
+(Deep Hierarchical Reinforcement Learning Based Recommendations via Multi-goals Abstraction. In Proceedings of SIGKDD 2019. [paper](https://arxiv.org/pdf/1903.09374.pdf) )  
 *PKU / JD*  
-*high-level agent and low-level agent*
+*high-level agent and low-level agent*  
+*Hierarchical*
 
 1. **Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs**. Kangzhi Zhao, Xiting Wang, Yuren Zhang, Li Zhao, Zheng Liu, Chunxiao Xing, Xing Xie. SIGIR 2020. [paper](https://dl.acm.org/doi/10.1145/3397271.3401171)
 
@@ -133,7 +137,10 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 
 1. **Hierarchical Reinforcement Learning for Integrated Recommendation**. Ruobing Xie, Shaoliang Zhang, Rui Wang, Feng Xia, Leyu Lin. AAAI, 2021. [paper](https://www.aaai.org/AAAI21Papers/AAAI-1169.XieR.pdf)  
 *Hui SHI lectured*  
-*WeChat*
+*WeChat*  
+*Base MaHRL*
+*high-level agent and low-level agent*  
+*Hierarchical*  
 
 ### Preprint Papers
 1. **Reinforcement Learning based Recommender System using Biclustering Technique**. Sungwoon Choi, Heonseok Ha, Uiwon Hwang, Chanju Kim, Jung-Woo Ha, Sungroh Yoon. arxiv 2018. [paper](https://arxiv.org/pdf/1801.05532.pdf) 
@@ -143,5 +150,14 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 1. **Model-Based Reinforcement Learning for Whole-Chain Recommendations**. Xiangyu Zhao, Long Xia, Yihong Zhao, Dawei Yin, Jiliang Tang. arxiv 2019. [paper](https://arxiv.org/pdf/1902.03987.pdf)
 
 ### Accepted Paper List of Top Conference 
-**KDD 2020**
+**KDD 2019**  
+https://dblp.org/db/conf/kdd/kdd2019.html
+
+**KDD 2020**  
 https://www.kdd.org/kdd2020/accepted-papers
+
+**RecSYS 2020**  
+https://recsys.acm.org/recsys20/accepted-contributions/
+
+**Sigir 2020**  
+https://sigir.org/sigir2020/accepted-papers/
