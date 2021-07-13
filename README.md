@@ -48,10 +48,12 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 *Pennsylvania State University, Microsoft*
 
 1. **Deep Reinforcement Learning for Page-wise Recommendations**. Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang.  RecSys 2018. [paper](https://arxiv.org/pdf/1805.02343.pdf)  
-*Adopts RL to recommend items on a 2-D page instead of showing one single item each time.*
+*Adopts RL to recommend items on a 2-D page instead of showing one single item each time.*  
+*simulator used*
 
 1. **Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Long Xia, Jiliang Tang, Dawei Yin. KDD 2018. [paper](https://arxiv.org/pdf/1802.06501.pdf)  
-*considers both positive and negative feedback from users recent behaviors to help find optimal strategy.*
+*considers both positive and negative feedback from users recent behaviors to help find optimal strategy.*  
+*simulator used*
 
 1. **Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation**. Shi-Yong Chen, Yang Yu, Qing Da, Jun Tan, Hai-Kuan Huang, Hai-Hong Tang. KDD 2018. [paper](http://lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/kdd18-RobustDQN.pdf)  
 *To mitigate the performance degradation due to high-variance and biased estimation of the reward, the paper provides a stratified random sampling and an approximate regretted reward to enhance the robustness of the model.*
@@ -128,7 +130,7 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 
 1. **Nonintrusive-Sensing and Reinforcement-Learning Based Adaptive Personalized Music Recommendation**. D Hong, L Miao, Y Li. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401225)
 
-1. **Joint Policy-Value Learning for Recommendation**. Olivier Jeunen, David Rohde, Flavian Vasile, Martin Bompaire. KDD 2020. [link](https://www.kdd.org/kdd2020/accepted-papers/view/joint-policy-value-learning-for-recommendation)  [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403175)  
+1. **Joint Policy-Value Learning for Recommendation**. Olivier Jeunen, David Rohde, Flavian Vasile, Martin Bompaire. KDD 2020. [link(with video)](https://www.kdd.org/kdd2020/accepted-papers/view/joint-policy-value-learning-for-recommendation)  [paper](https://dl.acm.org/doi/pdf/10.1145/3394486.3403175)  [video](https://www.youtube.com/watch?v=fMwxxbcXk8c)  
 *Combine value learning and policy learning*
 
 1. **Keeping Dataset Biases out of the Simulation: A Debiased Simulator for Reinforcement Learning based Recommender Systems**. Jin Huang, Harrie Oosterhuis, Maarten de Rijke, Herke van Hoof. RecSys 2020. [paper](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/huang-2020-keeping.pdf)
@@ -141,6 +143,10 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 *Base MaHRL*
 *high-level agent and low-level agent*  
 *Hierarchical*  
+
+1. **Cost-Effective and Interpretable Job Skill Recommendation with Deep Reinforcement Learning.** Ying Sun, Fuzhen Zhuang, Hengshu Zhu, Qing He, Hui Xiong. WWW 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449985) [video](https://www.youtube.com/watch?v=PFurYK0mwnE)  
+*Hui Xiong*  
+*Multi-task RL for Rec*
 
 ### Preprint Papers
 1. **Reinforcement Learning based Recommender System using Biclustering Technique**. Sungwoon Choi, Heonseok Ha, Uiwon Hwang, Chanju Kim, Jung-Woo Ha, Sungroh Yoon. arxiv 2018. [paper](https://arxiv.org/pdf/1801.05532.pdf) 
@@ -161,3 +167,6 @@ https://recsys.acm.org/recsys20/accepted-contributions/
 
 **Sigir 2020**  
 https://sigir.org/sigir2020/accepted-papers/
+
+**WWW 2021**  
+https://www2021.thewebconf.org/program/papers/
