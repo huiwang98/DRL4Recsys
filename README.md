@@ -2,7 +2,7 @@
 
 This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and DRL papers for recommender system.  
 
-**(This work is forked from https://github.com/cszhangzhen/DRL4Recsys. In this fork, we updated some latest paper and added some comments or summaries)**
+**(This is a fork of https://github.com/cszhangzhen/DRL4Recsys. In this fork, we updated some latest paper and added some comments or summaries)**
 
 ## Courses
 #### UCL Course on RL 
