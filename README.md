@@ -51,13 +51,17 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)  
 *Pennsylvania State University, Microsoft*
 
-1. **Deep Reinforcement Learning for Page-wise Recommendations**. Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang.  RecSys 2018. [paper](https://arxiv.org/pdf/1805.02343.pdf)  
+1. ★★★  
+**Deep Reinforcement Learning for Page-wise Recommendations**. Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang.  RecSys 2018. [paper](https://arxiv.org/pdf/1805.02343.pdf)  
+*JD*  
 *Adopts RL to recommend items on a 2-D page instead of showing one single item each time.*  
 *simulator used*
 
-1. **Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Long Xia, Jiliang Tang, Dawei Yin. KDD 2018. [paper](https://arxiv.org/pdf/1802.06501.pdf)  
+1. ★★★  
+**Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Long Xia, Jiliang Tang, Dawei Yin. KDD 2018. [paper](https://arxiv.org/pdf/1802.06501.pdf)  
+*JD*  
 *considers both positive and negative feedback from users recent behaviors to help find optimal strategy.*  
-*simulator used*
+*simulator used*  
 
 1. **Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation**. Shi-Yong Chen, Yang Yu, Qing Da, Jun Tan, Hai-Kuan Huang, Hai-Hong Tang. KDD 2018. [paper](http://lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/kdd18-RobustDQN.pdf)  
 *To mitigate the performance degradation due to high-variance and biased estimation of the reward, the paper provides a stratified random sampling and an approximate regretted reward to enhance the robustness of the model.*
@@ -185,3 +189,9 @@ https://sigir.org/sigir2020/accepted-papers/
 
 **WWW 2021**  
 https://www2021.thewebconf.org/program/papers/
+
+**KDD 2021**  
+https://kdd.org/kdd2021/accepted-papers/index
+
+**Sigir 2021**  
+https://sigir.org/sigir2021/accepted-papers/
