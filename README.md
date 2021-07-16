@@ -18,6 +18,7 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 1. **强化学习实战：强化学习在阿里的技术演进和业务创新** ISBN：9787121338984
 
 ## Papers
+Search Keywords: Reinforcement, Policy, Reward ...
 ### Survey Papers
 1. **A Brief Survey of Deep Reinforcement Learning**. Kai Arulkumaran, Marc Peter Deisenroth, Miles Brundage, Anil Anthony Bharath. 2017. [paper](https://arxiv.org/pdf/1708.05866.pdf)
 
@@ -166,6 +167,16 @@ This Work Collected the Courses / Books on Deep Reinforcement Learning (DRL) and
 *Multi-task RL for Rec*
 
 1. **User Response Models to Improve a REINFORCE Recommender System**. Minmin Chen, Bo Chang, Can Xu, Ed Chi. WSDM 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441764)
+
+1. **Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning**. Yang Deng, Yaliang Li, Fei Sun, Bolin Ding and Wai Lam. Sigir 2021.
+
+1. **Policy-Gradient Training of Fair and Unbiased Ranking Functions**. Himank Yadav, Zhengxiao Du and Thorsten Joachims. Sigir 2021.
+
+1. **Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback**. Xiao Zhang, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu and Ji-Rong Wen. Sigir 2021.
+
+1. **(Short Papers) RLNF: Reinforcement Learning based Noise Filtering for Click-Through Rate Prediction**. Pu Zhao, Chuan Luo, Cheng Zhou, Bo Qiao, Jiale He, Liangjie Zhang and Qingwei Lin. Sigir 2021.
+
+1. **(Short Papers) De-Biased Modeling of Search Click Behavior with Reinforcement Learning**. Jianghong Zhou, Sayyed Zahiri, Simon Hughes, Surya Kallumadi, Khalifeh Al Jadda and Eugene Agichtein. Sigir 2021.
 
 ### Preprint Papers
 1. **Reinforcement Learning based Recommender System using Biclustering Technique**. Sungwoon Choi, Heonseok Ha, Uiwon Hwang, Chanju Kim, Jung-Woo Ha, Sungroh Yoon. arxiv 2018. [paper](https://arxiv.org/pdf/1801.05532.pdf) 
