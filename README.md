@@ -26,6 +26,9 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **Deep Reinforcement Learning for Search, Recommendation, and Online Advertising: A Survey**. . Sigweb 19. [paper](https://arxiv.org/pdf/1812.07127.pdf)
 
+1. ★★★  
+**Reinforcement learning based recommender systems: A survey**. M. Mehdi Afsar, Trafford Crump, Behrouz Far. ACM Computing Surveys. [paper](https://arxiv.org/pdf/2101.06286)
+
 ### Conference Papers
 #### <2018
 1. **An MDP-Based Recommender System**. Guy Shani, David Heckerman, Ronen I. Brafman. JMLR 2005. [paper](http://www.jmlr.org/papers/volume6/shani05a/shani05a.pdf)  
@@ -168,7 +171,7 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **User Response Models to Improve a REINFORCE Recommender System**. Minmin Chen, Bo Chang, Can Xu, Ed Chi. WSDM 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441764)
 
-1. **Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning**. Yang Deng, Yaliang Li, Fei Sun, Bolin Ding and Wai Lam. Sigir 2021.
+1. **Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning**. Yang Deng, Yaliang Li, Fei Sun, Bolin Ding and Wai Lam. Sigir 2021. [paper](https://arxiv.org/pdf/2105.09710.pdf)
 
 1. **Policy-Gradient Training of Fair and Unbiased Ranking Functions**. Himank Yadav, Zhengxiao Du and Thorsten Joachims. Sigir 2021.
 
