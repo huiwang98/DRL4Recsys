@@ -173,9 +173,10 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning**. Yang Deng, Yaliang Li, Fei Sun, Bolin Ding and Wai Lam. Sigir 2021. [paper](https://arxiv.org/pdf/2105.09710.pdf)
 
-1. **Policy-Gradient Training of Fair and Unbiased Ranking Functions**. Himank Yadav, Zhengxiao Du and Thorsten Joachims. Sigir 2021.
+1. **Policy-Gradient Training of Fair and Unbiased Ranking Functions**. Himank Yadav, Zhengxiao Du and Thorsten Joachims. Sigir 2021. [paper](https://www.cs.cornell.edu/people/tj/publications/yadav_etal_21a.pdf)
 
-1. **Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback**. Xiao Zhang, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu and Ji-Rong Wen. Sigir 2021.
+
+1. **Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback**. Xiao Zhang, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu and Ji-Rong Wen. Sigir 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462892)
 
 1. **(Short Papers) RLNF: Reinforcement Learning based Noise Filtering for Click-Through Rate Prediction**. Pu Zhao, Chuan Luo, Cheng Zhou, Bo Qiao, Jiale He, Liangjie Zhang and Qingwei Lin. Sigir 2021.
 
@@ -189,6 +190,10 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **Model-Based Reinforcement Learning for Whole-Chain Recommendations**. Xiangyu Zhao, Long Xia, Yihong Zhao, Dawei Yin, Jiliang Tang. arxiv 2019. [paper](https://arxiv.org/pdf/1902.03987.pdf)
 
 ### Accepted Paper List of Top Conference 
+
+**NeurIPS Proceedings**  
+https://papers.nips.cc/
+
 **KDD 2019**  
 https://dblp.org/db/conf/kdd/kdd2019.html
 
