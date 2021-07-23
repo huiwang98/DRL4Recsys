@@ -55,6 +55,8 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)  
 *Pennsylvania State University, Microsoft*
 
+1. **Recogym: A reinforcement learning environment for the problem of product recommendation in online advertising**. David Rohde, Stephen Bonner, Travis Dunlop, Flavian Vasile, Alexandros Karatzoglou. RecSys 2018. [paper](https://arxiv.org/pdf/1808.00720.pdf)  
+
 1. ★★★  
 **Deep Reinforcement Learning for Page-wise Recommendations**. Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang.  RecSys 2018. [paper](https://arxiv.org/pdf/1805.02343.pdf)  
 *JD*  
@@ -112,9 +114,11 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **DRCGR: Deep reinforcement learning framework incorporating CNN and GAN-based for interactive recommendation**. Rong Gao, Haifeng Xia, Jing Li, Donghua Liu, Shuai Chen, and Gang Chun. ICDM 2019. [paper](https://ieeexplore.ieee.org/document/8970700)
 
+1. **Reinforcement Learning to Diversify Top-N Recommendation**. Lixin Zou, Long Xia, Zhuoye Ding, Dawei Yin, Jiaxing Song, Weidong Liu. DASFAA 2019. [link](https://link.springer.com/chapter/10.1007/978-3-030-18579-4_7)
+
 #### 2020
 
-1. **Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation**. Lixin Zou, Long Xia, Pan Du, Zhuo Zhang, Ting Bai, Weidong Liu, Jian-Yun Nie, Dawei Yin. WSDM 2020. [paper](https://tbbaby.github.io/pub/wsdm20.pdf)  
+1. **Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation**. Lixin Zou, Long Xia, Pan Du, Zhuo Zhang, Ting Bai, Weidong Liu, Jian-Yun Nie, Dawei Yin. WSDM 2020. [paper](https://tbbaby.github.io/pub/wsdm20.pdf) [code](https://github.com/zoulixin93/pseudo_dyna_q)  
 *Hui SHI lectured*  
 
 1. **End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding**. Feng Liu, Huifeng Guo, Xutao Li, Ruiming Tang, Yunming Ye, Xiuqiang He. WSDM 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371858)
