@@ -169,6 +169,12 @@ Search Keywords: Reinforcement, Policy, Reward ...
 *high-level agent and low-level agent*  
 *Hierarchical*  
 
+1. **DEAR: Deep Reinforcement Learning for Online Advertising Impression in Recommender Systems**. Xiangyu Zhao, Changsheng Gu, Haoshenglun Zhang, Xiwang Yang, Xiaobing Liu, Jiliang Tang , Hui Liu. AAAI, 2021. [paper](https://www.aaai.org/AAAI21Papers/AAAI-4386.ZhaoX.pdf)  
+
+1. **Reinforcement Learning with a Disentangled Universal Value Function for Item Recommendation**. Kai Wang, Zhene Zou, Qilin Deng, Jianrong Tao, Runze Wu, Changjie Fan, Liang Chen, Peng Cui. AAAI, 2021. [paper](https://www.aaai.org/AAAI21Papers/AAAI-7018.WangK.pdf)  
+
+1. **A General Offline Reinforcement Learning Framework for Interactive Recommendation**. Teng Xiao, Donglin Wang. AAAI, 2021. [paper](https://www.aaai.org/AAAI21Papers/AAAI-9385.XiaoT.pdf)  
+
 1. **Cost-Effective and Interpretable Job Skill Recommendation with Deep Reinforcement Learning.** Ying Sun, Fuzhen Zhuang, Hengshu Zhu, Qing He, Hui Xiong. WWW 2021. [paper](https://dl.acm.org/doi/10.1145/3442381.3449985) [video](https://www.youtube.com/watch?v=PFurYK0mwnE)  
 *Hui Xiong*  
 *Multi-task RL for Rec*
@@ -209,6 +215,9 @@ https://recsys.acm.org/recsys20/accepted-contributions/
 
 **Sigir 2020**  
 https://sigir.org/sigir2020/accepted-papers/
+
+**AAAI 2021**
+https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf
 
 **WWW 2021**  
 https://www2021.thewebconf.org/program/papers/
