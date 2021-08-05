@@ -55,7 +55,8 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)  
 *Pennsylvania State University, Microsoft*
 
-1. **Recogym: A reinforcement learning environment for the problem of product recommendation in online advertising**. David Rohde, Stephen Bonner, Travis Dunlop, Flavian Vasile, Alexandros Karatzoglou. RecSys 2018. [paper](https://arxiv.org/pdf/1808.00720.pdf)  
+1. ★  
+**(Workshop) Recogym: A reinforcement learning environment for the problem of product recommendation in online advertising**. David Rohde, Stephen Bonner, Travis Dunlop, Flavian Vasile, Alexandros Karatzoglou. RecSys 2018. [paper](https://arxiv.org/pdf/1808.00720.pdf) [code](https://github.com/criteo-research/reco-gym) [(Application of the code)](https://github.com/paulvilledieu/recogym) [(A competition)](https://sites.google.com/view/recogymchallenge/home)
 
 1. ★★★  
 **Deep Reinforcement Learning for Page-wise Recommendations**. Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang.  RecSys 2018. [paper](https://arxiv.org/pdf/1805.02343.pdf)  
@@ -102,7 +103,9 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **Hierarchical Reinforcement Learning for Course Recommendation in MOOCs**. Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI 2019. [paper](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf)
 
-1. **Large-scale Interactive Recommendation with Tree-structured Policy Gradient**. Haokun Chen, Xinyi Dai, Han Cai, Weinan Zhang, Xuejian Wang, Ruiming Tang, Yuzhou Zhang, Yong Yu. AAAI 2019. [paper](https://arxiv.org/pdf/1811.05869.pdf)
+1. ★  
+**Large-scale Interactive Recommendation with Tree-structured Policy Gradient**. Haokun Chen, Xinyi Dai, Han Cai, Weinan Zhang, Xuejian Wang, Ruiming Tang, Yuzhou Zhang, Yong Yu. AAAI 2019. [paper](https://arxiv.org/pdf/1811.05869.pdf)  
+*Tree-structured Policy Gradient*
 
 1. **Virtual-Taobao: Virtualizing real-world online retail environment for reinforcement learning**. Jing-Cheng Shi, Yang Yu, Qing Da, Shi-Yong Chen, An-Xiang Zeng. AAAI 2019. [paper](http://www.lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/aaai2019-virtualtaobao.pdf)
 
@@ -119,7 +122,6 @@ Search Keywords: Reinforcement, Policy, Reward ...
 #### 2020
 
 1. **Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation**. Lixin Zou, Long Xia, Pan Du, Zhuo Zhang, Ting Bai, Weidong Liu, Jian-Yun Nie, Dawei Yin. WSDM 2020. [paper](https://tbbaby.github.io/pub/wsdm20.pdf) [code](https://github.com/zoulixin93/pseudo_dyna_q)  
-*Hui SHI lectured*  
 
 1. **End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding**. Feng Liu, Huifeng Guo, Xutao Li, Ruiming Tang, Yunming Ye, Xiuqiang He. WSDM 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371858)
 
@@ -163,7 +165,6 @@ Search Keywords: Reinforcement, Policy, Reward ...
 #### 2021
 
 1. **Hierarchical Reinforcement Learning for Integrated Recommendation**. Ruobing Xie, Shaoliang Zhang, Rui Wang, Feng Xia, Leyu Lin. AAAI, 2021. [paper](https://www.aaai.org/AAAI21Papers/AAAI-1169.XieR.pdf)  
-*Hui SHI lectured*  
 *WeChat*  
 *Base MaHRL*
 *high-level agent and low-level agent*  
@@ -193,6 +194,8 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **(Short Papers) De-Biased Modeling of Search Click Behavior with Reinforcement Learning**. Jianghong Zhou, Sayyed Zahiri, Simon Hughes, Surya Kallumadi, Khalifeh Al Jadda and Eugene Agichtein. Sigir 2021.
 
 ### Preprint Papers
+1. **Deep Reinforcement Learning in Large Discrete Action Spaces**. Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin. arxiv 2015. [paper](https://arxiv.org/pdf/1512.07679.pdf) [code](https://github.com/jimkon/Deep-Reinforcement-Learning-in-Large-Discrete-Action-Spaces)  
+
 1. **Reinforcement Learning based Recommender System using Biclustering Technique**. Sungwoon Choi, Heonseok Ha, Uiwon Hwang, Chanju Kim, Jung-Woo Ha, Sungroh Yoon. arxiv 2018. [paper](https://arxiv.org/pdf/1801.05532.pdf) 
 
 1. **Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling**. Feng Liu, Ruiming Tang, Xutao Li, Weinan Zhang, Yunming Ye, Haokun Chen, Huifeng Guo, Yuzhou Zhang. arxiv 2018. [paper](https://arxiv.org/pdf/1810.12027.pdf)
