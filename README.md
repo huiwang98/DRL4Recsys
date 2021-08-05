@@ -107,7 +107,8 @@ Search Keywords: Reinforcement, Policy, Reward ...
 **Large-scale Interactive Recommendation with Tree-structured Policy Gradient**. Haokun Chen, Xinyi Dai, Han Cai, Weinan Zhang, Xuejian Wang, Ruiming Tang, Yuzhou Zhang, Yong Yu. AAAI 2019. [paper](https://arxiv.org/pdf/1811.05869.pdf)  
 *Tree-structured Policy Gradient*
 
-1. **Virtual-Taobao: Virtualizing real-world online retail environment for reinforcement learning**. Jing-Cheng Shi, Yang Yu, Qing Da, Shi-Yong Chen, An-Xiang Zeng. AAAI 2019. [paper](http://www.lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/aaai2019-virtualtaobao.pdf)
+1. **Virtual-Taobao: Virtualizing real-world online retail environment for reinforcement learning**. Jing-Cheng Shi, Yang Yu, Qing Da, Shi-Yong Chen, An-Xiang Zeng. AAAI 2019. [paper](http://www.lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/aaai2019-virtualtaobao.pdf) [code](https://github.com/eyounx/VirtualTaobao)
+*A simulator*
 
 1. ★★★  
 **A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation**. Xueying Bai, Jian Guan, Hongning Wang. NeurIPS 2019. [paper](http://papers.nips.cc/paper/9257-a-model-based-reinforcement-learning-with-adversarial-training-for-online-recommendation.pdf)  [code](https://github.com/XueyingBai/Model-Based-Reinforcement-Learning-for-Online-Recommendation)  
@@ -118,6 +119,10 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **DRCGR: Deep reinforcement learning framework incorporating CNN and GAN-based for interactive recommendation**. Rong Gao, Haifeng Xia, Jing Li, Donghua Liu, Shuai Chen, and Gang Chun. ICDM 2019. [paper](https://ieeexplore.ieee.org/document/8970700)
 
 1. **Reinforcement Learning to Diversify Top-N Recommendation**. Lixin Zou, Long Xia, Zhuoye Ding, Dawei Yin, Jiaxing Song, Weidong Liu. DASFAA 2019. [link](https://link.springer.com/chapter/10.1007/978-3-030-18579-4_7)
+
+1. **PyRecGym: a reinforcement learning gym for recommender systems**. Bichen Shi, 
+Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, Aonghus Lawlor. RecSys 2019. [link](https://dl.acm.org/doi/abs/10.1145/3298689.3346981)  
+*A simulator*
 
 #### 2020
 
@@ -201,6 +206,9 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling**. Feng Liu, Ruiming Tang, Xutao Li, Weinan Zhang, Yunming Ye, Haokun Chen, Huifeng Guo, Yuzhou Zhang. arxiv 2018. [paper](https://arxiv.org/pdf/1810.12027.pdf)
 
 1. **Model-Based Reinforcement Learning for Whole-Chain Recommendations**. Xiangyu Zhao, Long Xia, Yihong Zhao, Dawei Yin, Jiliang Tang. arxiv 2019. [paper](https://arxiv.org/pdf/1902.03987.pdf)
+
+1. **RecSim: A Configurable Simulation Platform for Recommender Systems**. Eugene Ie, Chih-wei Hsu, Martin Mladenov, Vihan Jain, Sanmit Narvekar, Jing Wang, Rui Wu, Craig Boutilier. arxiv 2019. [paper](https://arxiv.org/abs/1909.04847) [code](https://github.com/google-research/recsim)
+*A simulator*
 
 ### Accepted Paper List of Top Conference 
 
