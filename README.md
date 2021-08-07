@@ -107,8 +107,9 @@ Search Keywords: Reinforcement, Policy, Reward ...
 **Large-scale Interactive Recommendation with Tree-structured Policy Gradient**. Haokun Chen, Xinyi Dai, Han Cai, Weinan Zhang, Xuejian Wang, Ruiming Tang, Yuzhou Zhang, Yong Yu. AAAI 2019. [paper](https://arxiv.org/pdf/1811.05869.pdf)  
 *Tree-structured Policy Gradient*
 
-1. **Virtual-Taobao: Virtualizing real-world online retail environment for reinforcement learning**. Jing-Cheng Shi, Yang Yu, Qing Da, Shi-Yong Chen, An-Xiang Zeng. AAAI 2019. [paper](http://www.lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/aaai2019-virtualtaobao.pdf) [code](https://github.com/eyounx/VirtualTaobao)
-*A simulator*
+1. **Virtual-Taobao: Virtualizing real-world online retail environment for reinforcement learning**. Jing-Cheng Shi, Yang Yu, Qing Da, Shi-Yong Chen, An-Xiang Zeng. AAAI 2019. [paper](http://www.lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/aaai2019-virtualtaobao.pdf) [code](https://github.com/eyounx/VirtualTaobao) [(third party code)](https://github.com/AICS-RLGroup/VirtualTaobao-Imp)
+*A simulator*  
+*Cannot build my env with my dataset*
 
 1. ★★★  
 **A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation**. Xueying Bai, Jian Guan, Hongning Wang. NeurIPS 2019. [paper](http://papers.nips.cc/paper/9257-a-model-based-reinforcement-learning-with-adversarial-training-for-online-recommendation.pdf)  [code](https://github.com/XueyingBai/Model-Based-Reinforcement-Learning-for-Online-Recommendation)  
@@ -167,6 +168,12 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 
 1. **Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication**. Xu He, Bo An, Yanghua Li, Haikai Chen, Rundong Wang, Xinrun Wang, Runsheng Yu, Xin Li, Zhirong Wang. RecSys 2020. [paper](https://arxiv.org/pdf/2008.09369.pdf)
 
+1. **(Demo) Demonstrating Principled Uncertainty Modeling for Recommender Ecosystems with RecSim NG**. Martin Mladenov, Chih-Wei Hsu, Vihan Jain, Eugene Ie, Christopher Colby, Nicolas Mayoraz, Hubert Pham, Dustin Tran, Ivan Vendrov, Craig Boutilier. RecSys 2020. [paper](http://www.cs.toronto.edu/~cebly/Papers/RecSimNG_demopaper_RecSys20.pdf)  
+**(Preprint) RecSim NG: Toward Principled Uncertainty Modeling for Recommender Ecosystems**.  arxiv 2021. [paper](https://arxiv.org/abs/2103.08057) [code](https://github.com/google-research/recsim_ng)  
+*A Simulator*  
+*A Further Work of RecSim*
+*Google*
+
 #### 2021
 
 1. **Hierarchical Reinforcement Learning for Integrated Recommendation**. Ruobing Xie, Shaoliang Zhang, Rui Wang, Feng Xia, Leyu Lin. AAAI, 2021. [paper](https://www.aaai.org/AAAI21Papers/AAAI-1169.XieR.pdf)  
@@ -208,7 +215,12 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 1. **Model-Based Reinforcement Learning for Whole-Chain Recommendations**. Xiangyu Zhao, Long Xia, Yihong Zhao, Dawei Yin, Jiliang Tang. arxiv 2019. [paper](https://arxiv.org/pdf/1902.03987.pdf)
 
 1. **RecSim: A Configurable Simulation Platform for Recommender Systems**. Eugene Ie, Chih-wei Hsu, Martin Mladenov, Vihan Jain, Sanmit Narvekar, Jing Wang, Rui Wu, Craig Boutilier. arxiv 2019. [paper](https://arxiv.org/abs/1909.04847) [code](https://github.com/google-research/recsim)
-*A simulator*
+*A simulator*  
+*google*
+
+1. **Toward simulating environments in reinforcement learning based recommendations** (Simulating User Feedback for Reinforcement Learning Based Recommendations). Xiangyu Zhao, Long Xia, Lixin Zou, Dawei Yin, Jiliang Tang. arxiv 2019. [paper](https://arxiv.org/abs/1906.11462)  
+*A simulator*  
+*Rejected by AAAI 2020*
 
 ### Accepted Paper List of Top Conference 
 
