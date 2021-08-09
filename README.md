@@ -214,13 +214,16 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 
 1. **Model-Based Reinforcement Learning for Whole-Chain Recommendations**. Xiangyu Zhao, Long Xia, Yihong Zhao, Dawei Yin, Jiliang Tang. arxiv 2019. [paper](https://arxiv.org/pdf/1902.03987.pdf)
 
-1. **RecSim: A Configurable Simulation Platform for Recommender Systems**. Eugene Ie, Chih-wei Hsu, Martin Mladenov, Vihan Jain, Sanmit Narvekar, Jing Wang, Rui Wu, Craig Boutilier. arxiv 2019. [paper](https://arxiv.org/abs/1909.04847) [code](https://github.com/google-research/recsim)
+1. **RecSim: A Configurable Simulation Platform for Recommender Systems**. Eugene Ie, Chih-wei Hsu, Martin Mladenov, Vihan Jain, Sanmit Narvekar, Jing Wang, Rui Wu, Craig Boutilier. arxiv 2019. [paper](https://arxiv.org/abs/1909.04847) [code](https://github.com/google-research/recsim)  
 *A simulator*  
 *google*
 
 1. **Toward simulating environments in reinforcement learning based recommendations** (Simulating User Feedback for Reinforcement Learning Based Recommendations). Xiangyu Zhao, Long Xia, Lixin Zou, Dawei Yin, Jiliang Tang. arxiv 2019. [paper](https://arxiv.org/abs/1906.11462)  
 *A simulator*  
 *Rejected by AAAI 2020*
+
+1. **Measuring Recommender System Effects with Simulated Users**. Sirui Yao, Yoni Halpern, Nithum Thain, Xuezhi Wang, Kang Lee, Flavien Prost, Ed H. Chi, Jilin Chen, Alex Beutel. arxiv 2021. [paper](https://arxiv.org/abs/2101.04526)  
+*google*
 
 ### Accepted Paper List of Top Conference 
 
