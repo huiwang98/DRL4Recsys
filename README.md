@@ -42,7 +42,7 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **DJ-MC: A Reinforcement-Learning Agent for Music Playlist Recommendation**. Elad Liebman, Maytal Saar-Tsechansky, Peter Stone. AAMAS 2015. [paper](https://arxiv.org/pdf/1401.1880.pdf)
 
 1. ★★★  
-**Deep Reinforcement Learning for List-wise Recommendations**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Dawei Yin, Yihong Zhao, and Jiliang Tang. 2017.  DRL4KDD'19. [paper](https://arxiv.org/pdf/1801.00209.pdf) [code(authority)](https://github.com/luozachary/drl-rec) [code](https://github.com/egipcy/LIRD)  
+**Deep Reinforcement Learning for List-wise Recommendations**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Dawei Yin, Yihong Zhao, and Jiliang Tang. 2017.  DRL4KDD'19. [paper](https://arxiv.org/pdf/1801.00209.pdf) [code(author)](https://github.com/luozachary/drl-rec) [code](https://github.com/egipcy/LIRD)  
 *employs **Actor-Critic** framework to learn the optimal strategy by a online simulator*  
 *JD*
 
@@ -83,7 +83,8 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **Top-K Off-Policy Correction for a REINFORCE Recommender System**. Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed H. Chi. WSDM 2019. [paper](https://arxiv.org/pdf/1812.02353.pdf) [reproduce](https://github.com/mercurialgh/Reproduce-of-Top-K-Off-Policy-Correction-for-a-REINFORCE-Recommender-System)  
 *Youtube*
 
-1. **Generative Adversarial User Model for Reinforcement Learning Based Recommendation System**. Xinshi Chen, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song. ICML 2019. [paper](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf)
+1. ★  
+**Generative Adversarial User Model for Reinforcement Learning Based Recommendation System**. Xinshi Chen, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song. ICML 2019. [paper](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf)
 
 1. **Aggregating E-commerce Search Results from Heterogeneous Sources via Hierarchical Reinforcement Learning**. Ryuichi Takanobu, Tao Zhuang, Minlie Huang, Jun Feng, Haihong Tang, Bo Zheng. WWW 2019. [paper](https://arxiv.org/pdf/1902.08882.pdf)
 
@@ -112,7 +113,7 @@ Search Keywords: Reinforcement, Policy, Reward ...
 *Cannot build my env with my dataset*
 
 1. ★★★  
-**A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation**. Xueying Bai, Jian Guan, Hongning Wang. NeurIPS 2019. [paper](http://papers.nips.cc/paper/9257-a-model-based-reinforcement-learning-with-adversarial-training-for-online-recommendation.pdf)  [code](https://github.com/XueyingBai/Model-Based-Reinforcement-Learning-for-Online-Recommendation)  
+**A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation**. Xueying Bai, Jian Guan, Hongning Wang. NeurIPS 2019. [paper](http://papers.nips.cc/paper/9257-a-model-based-reinforcement-learning-with-adversarial-training-for-online-recommendation.pdf) [code(author)](https://github.com/JianGuanTHU/IRecGAN) [code](https://github.com/XueyingBai/Model-Based-Reinforcement-Learning-for-Online-Recommendation)  
 *Model-Based*
 
 1. **Text-Based Interactive Recommendation via Constraint-Augmented Reinforcement Learning**. Ruiyi Zhang, Tong Yu, Yilin Shen, Hongxia Jin, Changyou Chen, Lawrence Carin. NeurIPS 2019. [paper](http://people.ee.duke.edu/~lcarin/Ruiyi_NeurIPS2019.pdf)
