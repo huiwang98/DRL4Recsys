@@ -83,8 +83,9 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **Top-K Off-Policy Correction for a REINFORCE Recommender System**. Minmin Chen, Alex Beutel, Paul Covington, Sagar Jain, Francois Belletti, Ed H. Chi. WSDM 2019. [paper](https://arxiv.org/pdf/1812.02353.pdf) [reproduce](https://github.com/mercurialgh/Reproduce-of-Top-K-Off-Policy-Correction-for-a-REINFORCE-Recommender-System)  
 *Youtube*
 
-1. ★  
-**Generative Adversarial User Model for Reinforcement Learning Based Recommendation System**. Xinshi Chen, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song. ICML 2019. [paper](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf)
+1. ★★  
+**Generative Adversarial User Model for Reinforcement Learning Based Recommendation System**. Xinshi Chen, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song. ICML 2019. [paper](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf) [code(author)](https://github.com/xinshi-chen/GenerativeAdversarialUserModel) [code](https://github.com/rushhan/Generative-Adversarial-User-Model-for-Reinforcement-Learning-Based-Recommendation-System-Pytorch) 
+[code(tfv2)](https://github.com/hcai98/GanUserModel-DLS2020/tree/7b9284a4043e1b7191f9aa6773ca7e05e2614643/GenerativeAdversarialUserModel-tfv2) [cited by](https://scholar.google.com/scholar?cites=18416272509453441398&as_sdt=5,48&sciodt=0,48&hl=en)
 
 1. **Aggregating E-commerce Search Results from Heterogeneous Sources via Hierarchical Reinforcement Learning**. Ryuichi Takanobu, Tao Zhuang, Minlie Huang, Jun Feng, Haihong Tang, Bo Zheng. WWW 2019. [paper](https://arxiv.org/pdf/1902.08882.pdf)
 
