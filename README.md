@@ -27,7 +27,11 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **Deep Reinforcement Learning for Search, Recommendation, and Online Advertising: A Survey**. . Sigweb 19. [paper](https://arxiv.org/pdf/1812.07127.pdf)
 
 1. ★★★  
-**Reinforcement learning based recommender systems: A survey**. M. Mehdi Afsar, Trafford Crump, Behrouz Far. ACM Computing Surveys. [paper](https://arxiv.org/pdf/2101.06286)
+**Reinforcement learning based recommender systems: A survey**. M. Mehdi Afsar, Trafford Crump, Behrouz Far. ACM Computing Surveys. 2021. [paper](https://arxiv.org/pdf/2101.06286)
+
+1. **A Survey on Reinforcement Learning for Recommender Systems**. Yuanguo Lin, Yong Liu, Fan Lin, Pengcheng Wu, Wenhua Zeng, Chunyan Miao. 2021. [paper](https://arxiv.org/pdf/2109.10665.pdf)
+
+1. **A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions**. X Chen, L Yao, J McAuley, G Zhou, X Wang. 2021. [paper](https://arxiv.org/pdf/2109.03540.pdf)
 
 ### Conference Papers
 #### <2018
@@ -41,6 +45,8 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **DJ-MC: A Reinforcement-Learning Agent for Music Playlist Recommendation**. Elad Liebman, Maytal Saar-Tsechansky, Peter Stone. AAMAS 2015. [paper](https://arxiv.org/pdf/1401.1880.pdf)
 
+1. **Online contextaware recommendation with time varying multi-armed bandit.** KDD 2016
+
 1. ★★★  
 **Deep Reinforcement Learning for List-wise Recommendations**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Dawei Yin, Yihong Zhao, and Jiliang Tang. 2017.  DRL4KDD'19. [paper](https://arxiv.org/pdf/1801.00209.pdf) [code(author)](https://github.com/luozachary/drl-rec) [code](https://github.com/egipcy/LIRD)  
 *employs **Actor-Critic** framework to learn the optimal strategy by a online simulator*  
@@ -52,8 +58,11 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **Reinforcement Mechanism Design for e-commerce**. Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang. WWW 2018. [paper](https://arxiv.org/pdf/1708.07607.pdf)
 
-1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)  
-*Pennsylvania State University, Microsoft*
+1. ★★★  
+**DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)  
+*Pennsylvania State University, Microsoft*  
+*DDQN*  
+*no code*
 
 1. ★  
 **(Workshop) Recogym: A reinforcement learning environment for the problem of product recommendation in online advertising**. David Rohde, Stephen Bonner, Travis Dunlop, Flavian Vasile, Alexandros Karatzoglou. RecSys 2018. [paper](https://arxiv.org/pdf/1808.00720.pdf) [code](https://github.com/criteo-research/reco-gym) [(Application of the code)](https://github.com/paulvilledieu/recogym) [(A competition)](https://sites.google.com/view/recogymchallenge/home)
