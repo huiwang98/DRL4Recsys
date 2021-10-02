@@ -73,6 +73,10 @@ Search Keywords: Reinforcement, Policy, Reward ...
 *Adopts RL to recommend items on a 2-D page instead of showing one single item each time.*  
 *simulator used*
 
+1. **Why I like it: Multi-task Learning for Recommendation and Explanation**. Yichao Lu, Ruihai Dong, Barry Smyth. RecSys 2018. [paper](https://dl.acm.org/doi/pdf/10.1145/3240323.3240365)  
+*Explanation*  
+*No code*
+
 1. ★★★  
 **Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Long Xia, Jiliang Tang, Dawei Yin. KDD 2018. [paper](https://arxiv.org/pdf/1802.06501.pdf)  
 *JD*  
@@ -112,7 +116,7 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **Exact-K Recommendation via Maximal Clique Optimization**. Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu. KDD 2019. [paper](https://arxiv.org/pdf/1905.07089.pdf)
 
-1. **Hierarchical Reinforcement Learning for Course Recommendation in MOOCs**. Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI 2019. [paper](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf)
+1. **Hierarchical Reinforcement Learning for Course Recommendation in MOOCs**. Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI 2019. [paper](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) [code](https://github.com/jerryhao66/HRL)
 
 1. ★  
 **Large-scale Interactive Recommendation with Tree-structured Policy Gradient**. Haokun Chen, Xinyi Dai, Han Cai, Weinan Zhang, Xuejian Wang, Ruiming Tang, Yuzhou Zhang, Yong Yu. AAAI 2019. [paper](https://arxiv.org/pdf/1811.05869.pdf)  
@@ -150,8 +154,10 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 **KERL: A Knowledge-Guided Reinforcement Learning Model for  Sequential Recommendation**. Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao, Shaozhang Niu, Jimmy Huang. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401134) [code](https://github.com/fanyubupt/KERL)  
 *Graph*
 
-1. **Self-Supervised Reinforcement Learning for Recommender Systems**. Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.05779.pdf)  
+1. **Self-Supervised Reinforcement Learning for Recommender Systems**. Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.05779.pdf) [code](https://drive.google.com/file/d/1nLL3_knhj_RbaP_IepBLkwaT6zNIeD5z/view)  
 *Self-Supervised*  
+*SQN*
+*Q-learning*    
 
 1. **Reinforcement Learning to Rank with Pairwise Policy Gradient**. Jun Xu, Zeng Wei, Long Xia, Yanyan Lan, Dawei Yin, Xueqi Cheng, Ji-Rong Wen. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401148)
 
@@ -161,7 +167,8 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 *PKU / JD*  
 *high-level agent and low-level agent*  
 *Hierarchical*  
-*Simulator used*
+*Simulator used*  
+*no code*
 
 1. **Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs**. Kangzhi Zhao, Xiting Wang, Yuren Zhang, Li Zhao, Zheng Liu, Chunxiao Xing, Xing Xie. SIGIR 2020. [paper](https://dl.acm.org/doi/10.1145/3397271.3401171)
 
