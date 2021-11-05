@@ -80,8 +80,10 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. ★★★  
 **Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Long Xia, Jiliang Tang, Dawei Yin. KDD 2018. [paper](https://arxiv.org/pdf/1802.06501.pdf)  
 *JD*  
+*DEERS*  
 *considers both positive and negative feedback from users recent behaviors to help find optimal strategy.*  
 *simulator used*  
+*no code*  
 
 1. **Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation**. Shi-Yong Chen, Yang Yu, Qing Da, Jun Tan, Hai-Kuan Huang, Hai-Hong Tang. KDD 2018. [paper](http://lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/kdd18-RobustDQN.pdf)  
 *To mitigate the performance degradation due to high-variance and biased estimation of the reward, the paper provides a stratified random sampling and an approximate regretted reward to enhance the robustness of the model.*
@@ -221,6 +223,9 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 
 1. **Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback**. Xiao Zhang, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu and Ji-Rong Wen. Sigir 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462892)
 
+1. **Underestimation Refinement: A General Enhancement Strategy for Exploration in Recommendation Systems**. 
+Yuhai Song, Lu Wang, Haoming Dang, Weiwei Zhou, Jing Guan, Xiwei Zhao, Changping Peng, Yongjun Bao, Jingping Shao. Sigir 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3404835.3462983)
+
 1. **(Short Papers) RLNF: Reinforcement Learning based Noise Filtering for Click-Through Rate Prediction**. Pu Zhao, Chuan Luo, Cheng Zhou, Bo Qiao, Jiale He, Liangjie Zhang and Qingwei Lin. Sigir 2021.
 
 1. **(Short Papers) De-Biased Modeling of Search Click Behavior with Reinforcement Learning**. Jianghong Zhou, Sayyed Zahiri, Simon Hughes, Surya Kallumadi, Khalifeh Al Jadda and Eugene Agichtein. Sigir 2021.
@@ -245,6 +250,14 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 1. **Measuring Recommender System Effects with Simulated Users**. Sirui Yao, Yoni Halpern, Nithum Thain, Xuezhi Wang, Kang Lee, Flavien Prost, Ed H. Chi, Jilin Chen, Alex Beutel. arxiv 2021. [paper](https://arxiv.org/abs/2101.04526)  
 *google*
 
+### RL Papers
+Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning
+https://arxiv.org/pdf/2105.08140.pdf
+
+Bayesian Q-learning
+https://www.aaai.org/Papers/AAAI/1998/AAAI98-108.pdf
+
+
 ### Accepted Paper List of Top Conference 
 
 **NeurIPS Proceedings**  
@@ -256,11 +269,16 @@ https://dblp.org/db/conf/kdd/kdd2019.html
 **KDD 2020**  
 https://www.kdd.org/kdd2020/accepted-papers
 
-**RecSYS 2020**  
-https://recsys.acm.org/recsys20/accepted-contributions/
+**KDD 2021**  
+https://kdd.org/kdd2021/accepted-papers/index
+
+
 
 **Sigir 2020**  
 https://sigir.org/sigir2020/accepted-papers/
+
+**Sigir 2021**  
+https://sigir.org/sigir2021/accepted-papers/
 
 **AAAI 2021**
 https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf
@@ -268,8 +286,11 @@ https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted
 **WWW 2021**  
 https://www2021.thewebconf.org/program/papers/
 
-**KDD 2021**  
-https://kdd.org/kdd2021/accepted-papers/index
+**ICML 2020**
+https://icml.cc/Conferences/2020/Schedule?type=Poster
 
-**Sigir 2021**  
-https://sigir.org/sigir2021/accepted-papers/
+**ICML 2021**
+https://icml.cc/Conferences/2021/Schedule?type=Poster
+
+**RecSYS 2020**  
+https://recsys.acm.org/recsys20/accepted-contributions/
