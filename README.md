@@ -41,6 +41,8 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **DJ-MC: A Reinforcement-Learning Agent for Music Playlist Recommendation**. Elad Liebman, Maytal Saar-Tsechansky, Peter Stone. AAMAS 2015. [paper](https://arxiv.org/pdf/1401.1880.pdf)
 
+1. **Online contextaware recommendation with time varying multi-armed bandit.** KDD 2016
+
 1. ★★★  
 **Deep Reinforcement Learning for List-wise Recommendations**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Dawei Yin, Yihong Zhao, and Jiliang Tang. 2017.  DRL4KDD'19. [paper](https://arxiv.org/pdf/1801.00209.pdf) [code(author)](https://github.com/luozachary/drl-rec) [code](https://github.com/egipcy/LIRD)  
 *employs **Actor-Critic** framework to learn the optimal strategy by a online simulator*  
