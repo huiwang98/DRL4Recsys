@@ -223,12 +223,12 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 
 1. **Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback**. Xiao Zhang, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu and Ji-Rong Wen. Sigir 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462892)
 
-1. **Underestimation Refinement: A General Enhancement Strategy for Exploration in Recommendation Systems**. 
+1. **(Short Paper) Underestimation Refinement: A General Enhancement Strategy for Exploration in Recommendation Systems**. 
 Yuhai Song, Lu Wang, Haoming Dang, Weiwei Zhou, Jing Guan, Xiwei Zhao, Changping Peng, Yongjun Bao, Jingping Shao. Sigir 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3404835.3462983)
 
-1. **(Short Papers) RLNF: Reinforcement Learning based Noise Filtering for Click-Through Rate Prediction**. Pu Zhao, Chuan Luo, Cheng Zhou, Bo Qiao, Jiale He, Liangjie Zhang and Qingwei Lin. Sigir 2021.
+1. **(Short Paper) RLNF: Reinforcement Learning based Noise Filtering for Click-Through Rate Prediction**. Pu Zhao, Chuan Luo, Cheng Zhou, Bo Qiao, Jiale He, Liangjie Zhang and Qingwei Lin. Sigir 2021.
 
-1. **(Short Papers) De-Biased Modeling of Search Click Behavior with Reinforcement Learning**. Jianghong Zhou, Sayyed Zahiri, Simon Hughes, Surya Kallumadi, Khalifeh Al Jadda and Eugene Agichtein. Sigir 2021.
+1. **(Short Paper) De-Biased Modeling of Search Click Behavior with Reinforcement Learning**. Jianghong Zhou, Sayyed Zahiri, Simon Hughes, Surya Kallumadi, Khalifeh Al Jadda and Eugene Agichtein. Sigir 2021.
 
 ### Preprint Papers
 1. **Deep Reinforcement Learning in Large Discrete Action Spaces**. Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin. arxiv 2015. [paper](https://arxiv.org/pdf/1512.07679.pdf) [code](https://github.com/jimkon/Deep-Reinforcement-Learning-in-Large-Discrete-Action-Spaces)  
