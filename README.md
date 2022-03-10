@@ -27,7 +27,11 @@ Search Keywords: Reinforcement, Policy, Reward ...
 1. **Deep Reinforcement Learning for Search, Recommendation, and Online Advertising: A Survey**. . Sigweb 19. [paper](https://arxiv.org/pdf/1812.07127.pdf)
 
 1. ★★★  
-**Reinforcement learning based recommender systems: A survey**. M. Mehdi Afsar, Trafford Crump, Behrouz Far. ACM Computing Surveys. [paper](https://arxiv.org/pdf/2101.06286)
+**Reinforcement learning based recommender systems: A survey**. M. Mehdi Afsar, Trafford Crump, Behrouz Far. ACM Computing Surveys. 2021. [paper](https://arxiv.org/pdf/2101.06286)
+
+1. **A Survey on Reinforcement Learning for Recommender Systems**. Yuanguo Lin, Yong Liu, Fan Lin, Pengcheng Wu, Wenhua Zeng, Chunyan Miao. 2021. [paper](https://arxiv.org/pdf/2109.10665.pdf)
+
+1. **A Survey of Deep Reinforcement Learning in Recommender Systems: A Systematic Review and Future Directions**. X Chen, L Yao, J McAuley, G Zhou, X Wang. 2021. [paper](https://arxiv.org/pdf/2109.03540.pdf)
 
 ### Conference Papers
 #### <2018
@@ -54,8 +58,11 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **Reinforcement Mechanism Design for e-commerce**. Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang. WWW 2018. [paper](https://arxiv.org/pdf/1708.07607.pdf)
 
-1. **DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)  
-*Pennsylvania State University, Microsoft*
+1. ★★★  
+**DRN: A Deep Reinforcement Learning Framework for News Recommendation**. Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li. WWW 2018. [paper](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)  
+*Pennsylvania State University, Microsoft*  
+*DDQN*  
+*no code*
 
 1. ★  
 **(Workshop) Recogym: A reinforcement learning environment for the problem of product recommendation in online advertising**. David Rohde, Stephen Bonner, Travis Dunlop, Flavian Vasile, Alexandros Karatzoglou. RecSys 2018. [paper](https://arxiv.org/pdf/1808.00720.pdf) [code](https://github.com/criteo-research/reco-gym) [(Application of the code)](https://github.com/paulvilledieu/recogym) [(A competition)](https://sites.google.com/view/recogymchallenge/home)
@@ -66,11 +73,17 @@ Search Keywords: Reinforcement, Policy, Reward ...
 *Adopts RL to recommend items on a 2-D page instead of showing one single item each time.*  
 *simulator used*
 
+1. **Why I like it: Multi-task Learning for Recommendation and Explanation**. Yichao Lu, Ruihai Dong, Barry Smyth. RecSys 2018. [paper](https://dl.acm.org/doi/pdf/10.1145/3240323.3240365)  
+*Explanation*  
+*No code*
+
 1. ★★★  
 **Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning**. Xiangyu Zhao, Liang Zhang, Zhuoye Ding, Long Xia, Jiliang Tang, Dawei Yin. KDD 2018. [paper](https://arxiv.org/pdf/1802.06501.pdf)  
 *JD*  
+*DEERS*  
 *considers both positive and negative feedback from users recent behaviors to help find optimal strategy.*  
 *simulator used*  
+*no code*  
 
 1. **Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation**. Shi-Yong Chen, Yang Yu, Qing Da, Jun Tan, Hai-Kuan Huang, Hai-Hong Tang. KDD 2018. [paper](http://lamda.nju.edu.cn/yuy/GetFile.aspx?File=papers/kdd18-RobustDQN.pdf)  
 *To mitigate the performance degradation due to high-variance and biased estimation of the reward, the paper provides a stratified random sampling and an approximate regretted reward to enhance the robustness of the model.*
@@ -105,7 +118,7 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **Exact-K Recommendation via Maximal Clique Optimization**. Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu. KDD 2019. [paper](https://arxiv.org/pdf/1905.07089.pdf)
 
-1. **Hierarchical Reinforcement Learning for Course Recommendation in MOOCs**. Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI 2019. [paper](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf)
+1. **Hierarchical Reinforcement Learning for Course Recommendation in MOOCs**. Jing Zhang, Bowen Hao, Bo Chen, Cuiping Li, Hong Chen, Jimeng Sun. AAAI 2019. [paper](https://xiaojingzi.github.io/publications/AAAI19-zhang-et-al-HRL.pdf) [code](https://github.com/jerryhao66/HRL)
 
 1. ★  
 **Large-scale Interactive Recommendation with Tree-structured Policy Gradient**. Haokun Chen, Xinyi Dai, Han Cai, Weinan Zhang, Xuejian Wang, Ruiming Tang, Yuzhou Zhang, Yong Yu. AAAI 2019. [paper](https://arxiv.org/pdf/1811.05869.pdf)  
@@ -143,8 +156,10 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 **KERL: A Knowledge-Guided Reinforcement Learning Model for  Sequential Recommendation**. Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao, Shaozhang Niu, Jimmy Huang. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401134) [code](https://github.com/fanyubupt/KERL)  
 *Graph*
 
-1. **Self-Supervised Reinforcement Learning for Recommender Systems**. Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.05779.pdf)  
+1. **Self-Supervised Reinforcement Learning for Recommender Systems**. Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Joemon Jose. SIGIR 2020. [paper](https://arxiv.org/pdf/2006.05779.pdf) [code](https://drive.google.com/file/d/1nLL3_knhj_RbaP_IepBLkwaT6zNIeD5z/view)  
 *Self-Supervised*  
+*SQN*
+*Q-learning*    
 
 1. **Reinforcement Learning to Rank with Pairwise Policy Gradient**. Jun Xu, Zeng Wei, Long Xia, Yanyan Lan, Dawei Yin, Xueqi Cheng, Ji-Rong Wen. SIGIR 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3397271.3401148)
 
@@ -154,7 +169,8 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 *PKU / JD*  
 *high-level agent and low-level agent*  
 *Hierarchical*  
-*Simulator used*
+*Simulator used*  
+*no code*
 
 1. **Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs**. Kangzhi Zhao, Xiting Wang, Yuren Zhang, Li Zhao, Zheng Liu, Chunxiao Xing, Xing Xie. SIGIR 2020. [paper](https://dl.acm.org/doi/10.1145/3397271.3401171)
 
@@ -207,6 +223,9 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 
 1. **Counterfactual Reward Modification for Streaming Recommendation with Delayed Feedback**. Xiao Zhang, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu and Ji-Rong Wen. Sigir 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462892)
 
+1. **Underestimation Refinement: A General Enhancement Strategy for Exploration in Recommendation Systems**. 
+Yuhai Song, Lu Wang, Haoming Dang, Weiwei Zhou, Jing Guan, Xiwei Zhao, Changping Peng, Yongjun Bao, Jingping Shao. Sigir 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3404835.3462983)
+
 1. **(Short Papers) RLNF: Reinforcement Learning based Noise Filtering for Click-Through Rate Prediction**. Pu Zhao, Chuan Luo, Cheng Zhou, Bo Qiao, Jiale He, Liangjie Zhang and Qingwei Lin. Sigir 2021.
 
 1. **(Short Papers) De-Biased Modeling of Search Click Behavior with Reinforcement Learning**. Jianghong Zhou, Sayyed Zahiri, Simon Hughes, Surya Kallumadi, Khalifeh Al Jadda and Eugene Agichtein. Sigir 2021.
@@ -231,6 +250,14 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 1. **Measuring Recommender System Effects with Simulated Users**. Sirui Yao, Yoni Halpern, Nithum Thain, Xuezhi Wang, Kang Lee, Flavien Prost, Ed H. Chi, Jilin Chen, Alex Beutel. arxiv 2021. [paper](https://arxiv.org/abs/2101.04526)  
 *google*
 
+### RL Papers
+Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning
+https://arxiv.org/pdf/2105.08140.pdf
+
+Bayesian Q-learning
+https://www.aaai.org/Papers/AAAI/1998/AAAI98-108.pdf
+
+
 ### Accepted Paper List of Top Conference 
 
 **NeurIPS Proceedings**  
@@ -242,11 +269,16 @@ https://dblp.org/db/conf/kdd/kdd2019.html
 **KDD 2020**  
 https://www.kdd.org/kdd2020/accepted-papers
 
-**RecSYS 2020**  
-https://recsys.acm.org/recsys20/accepted-contributions/
+**KDD 2021**  
+https://kdd.org/kdd2021/accepted-papers/index
+
+
 
 **Sigir 2020**  
 https://sigir.org/sigir2020/accepted-papers/
+
+**Sigir 2021**  
+https://sigir.org/sigir2021/accepted-papers/
 
 **AAAI 2021**
 https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf
@@ -254,8 +286,11 @@ https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted
 **WWW 2021**  
 https://www2021.thewebconf.org/program/papers/
 
-**KDD 2021**  
-https://kdd.org/kdd2021/accepted-papers/index
+**ICML 2020**
+https://icml.cc/Conferences/2020/Schedule?type=Poster
 
-**Sigir 2021**  
-https://sigir.org/sigir2021/accepted-papers/
+**ICML 2021**
+https://icml.cc/Conferences/2021/Schedule?type=Poster
+
+**RecSYS 2020**  
+https://recsys.acm.org/recsys20/accepted-contributions/
