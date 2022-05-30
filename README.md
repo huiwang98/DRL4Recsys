@@ -240,8 +240,6 @@ Yuhai Song, Lu Wang, Haoming Dang, Weiwei Zhou, Jing Guan, Xiwei Zhao, Changping
 1. **Model-agnostic Counterfactual Policy Synthesis Enhanced Reinforcement Learning for Dynamic Recommendation**. CIKM 2022. [paper]()  
 
 
-
-
 ### Preprint Papers
 1. **Deep Reinforcement Learning in Large Discrete Action Spaces**. Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin. arxiv 2015. [paper](https://arxiv.org/pdf/1512.07679.pdf) [code](https://github.com/jimkon/Deep-Reinforcement-Learning-in-Large-Discrete-Action-Spaces)  
 
