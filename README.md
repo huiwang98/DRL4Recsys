@@ -168,7 +168,7 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **User Response Models to Improve a REINFORCE Recommender System**. Minmin Chen, Bo Chang, Can Xu, Ed Chi. WSDM 2021. [paper](https://dl.acm.org/doi/pdf/10.1145/3437963.3441764)
 
-1. **Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning**. Yang Deng, Yaliang Li, Fei Sun, Bolin Ding and Wai Lam. Sigir 2021.
+1. **Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning**. Yang Deng, Yaliang Li, Fei Sun, Bolin Ding and Wai Lam. Sigir 2021. [paper](https://arxiv.org/pdf/2105.09710.pdf)
 
 1. **Policy-Gradient Training of Fair and Unbiased Ranking Functions**. Himank Yadav, Zhengxiao Du and Thorsten Joachims. Sigir 2021.
 
@@ -178,12 +178,30 @@ Search Keywords: Reinforcement, Policy, Reward ...
 
 1. **(Short Papers) De-Biased Modeling of Search Click Behavior with Reinforcement Learning**. Jianghong Zhou, Sayyed Zahiri, Simon Hughes, Surya Kallumadi, Khalifeh Al Jadda and Eugene Agichtein. Sigir 2021.
 
+1. **Reinforcement Learning to Optimize Lifetime Value in Cold-Start Recommendation**  Luo Ji (Alibaba Group, China), Qi Qin (Peking University, China), Bingqing Han (Alibaba Group, China), Hongxia Yang (Alibaba Group, China). CIKM 2021. 
+
+#### 2022
+1. **Generative Slate Recommendation with Reinforcement Learning**. CIKM 2022 Submission Id: 6548. [paper]()  
+
+1. **Goal-oriented Navigation Enhanced Reinforcement Learning for Learning Path Recommendation**. CIKM 2022. [paper]()  
+
+1. **Model-agnostic Counterfactual Policy Synthesis Enhanced Reinforcement Learning for Dynamic Recommendation**. CIKM 2022. [paper]()  
+
+
+
+
 ### Preprint Papers
 1. **Reinforcement Learning based Recommender System using Biclustering Technique**. Sungwoon Choi, Heonseok Ha, Uiwon Hwang, Chanju Kim, Jung-Woo Ha, Sungroh Yoon. arxiv 2018. [paper](https://arxiv.org/pdf/1801.05532.pdf) 
 
 1. **Deep Reinforcement Learning based Recommendation with Explicit User-Item Interactions Modeling**. Feng Liu, Ruiming Tang, Xutao Li, Weinan Zhang, Yunming Ye, Haokun Chen, Huifeng Guo, Yuzhou Zhang. arxiv 2018. [paper](https://arxiv.org/pdf/1810.12027.pdf)
 
 1. **Model-Based Reinforcement Learning for Whole-Chain Recommendations**. Xiangyu Zhao, Long Xia, Yihong Zhao, Dawei Yin, Jiliang Tang. arxiv 2019. [paper](https://arxiv.org/pdf/1902.03987.pdf)
+
+
+
+
+
+
 
 ### Accepted Paper List of Top Conference 
 **KDD 2019**  
