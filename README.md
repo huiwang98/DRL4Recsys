@@ -251,12 +251,6 @@ Yuhai Song, Lu Wang, Haoming Dang, Weiwei Zhou, Jing Guan, Xiwei Zhao, Changping
 
 1. **Model-Based Reinforcement Learning for Whole-Chain Recommendations**. Xiangyu Zhao, Long Xia, Yihong Zhao, Dawei Yin, Jiliang Tang. arxiv 2019. [paper](https://arxiv.org/pdf/1902.03987.pdf)
 
-<<<<<<< HEAD
-
-
-
-
-=======
 1. **RecSim: A Configurable Simulation Platform for Recommender Systems**. Eugene Ie, Chih-wei Hsu, Martin Mladenov, Vihan Jain, Sanmit Narvekar, Jing Wang, Rui Wu, Craig Boutilier. arxiv 2019. [paper](https://arxiv.org/abs/1909.04847) [code](https://github.com/google-research/recsim)  
 *A simulator*  
 *google*
@@ -268,13 +262,13 @@ Yuhai Song, Lu Wang, Haoming Dang, Weiwei Zhou, Jing Guan, Xiwei Zhao, Changping
 1. **Measuring Recommender System Effects with Simulated Users**. Sirui Yao, Yoni Halpern, Nithum Thain, Xuezhi Wang, Kang Lee, Flavien Prost, Ed H. Chi, Jilin Chen, Alex Beutel. arxiv 2021. [paper](https://arxiv.org/abs/2101.04526)  
 *google*
 
+
 ### RL Papers
-Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning
+1. Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning
 https://arxiv.org/pdf/2105.08140.pdf
 
-Bayesian Q-learning
+1. ayesian Q-learning
 https://www.aaai.org/Papers/AAAI/1998/AAAI98-108.pdf
->>>>>>> 04b8a162eaa68225af3092607e619368189368a2
 
 
 ### Accepted Paper List of Top Conference 
