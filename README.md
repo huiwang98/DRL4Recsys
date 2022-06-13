@@ -305,3 +305,10 @@ https://icml.cc/Conferences/2021/Schedule?type=Poster
 
 **RecSYS 2020**  
 https://recsys.acm.org/recsys20/accepted-contributions/
+
+**ICML 2022**
+https://icml.cc/Conferences/2022/AcceptedPapersInitial
+
+**IJCAI 2022**
+https://ijcai-22.org/main-track-accepted-papers/
+
