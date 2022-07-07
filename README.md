@@ -198,7 +198,7 @@ Makbule Gulcin Ozsoy, Neil Hurley, Barry Smyth, Elias Z. Tragos, James Geraci, A
 
 #### 2021
 
-1. **Hierarchical Reinforcement Learning for Integrated Recommendation**. Ruobing Xie, Shaoliang Zhang, Rui Wang, Feng Xia, Leyu Lin. AAAI, 2021. [paper](https://www.aaai.org/AAAI21Papers/AAAI-1169.XieR.pdf)  
+1. **Hierarchical Reinforcement Learning for Integrated Recommendation**. Ruobing Xie, Shaoliang Zhang, Rui Wang, Feng Xia, Leyu Lin. AAAI, 2021. [paper](https://www.aaai.org/AAAI21Papers/AAAI-1169.XieR.pdf) [code("not realistic")](https://github.com/modriczhang/HRL-Rec)  
 *WeChat*  
 *Base MaHRL*
 *high-level agent and low-level agent*  
